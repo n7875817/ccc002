@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /**
  * Used to store website configuration information.
@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => '002是笨蛋',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
